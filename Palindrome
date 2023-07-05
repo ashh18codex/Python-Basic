@@ -1,0 +1,6 @@
+s=input()
+p=s[::-1]
+if p==s:
+    print("Palindrome")
+else:
+    print("Not plalindrome")
